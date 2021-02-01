@@ -7,7 +7,7 @@ This repository contains TravelUI application tutorial based on MarcusNG youtube
 
 The Design of the TravelUI is as follow:
 
-<img src="https://user-images.githubusercontent.com/67504821/106421683-3e2c1f00-64b1-11eb-9b38-e88ff95dc05f.png" width="600">
+<img align="centre" src="https://user-images.githubusercontent.com/67504821/106421683-3e2c1f00-64b1-11eb-9b38-e88ff95dc05f.png" width="600">
 
 #### Dribbble Page : https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experience
 
